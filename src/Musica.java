@@ -1,0 +1,7 @@
+public class Musica {
+    private String titulo;
+
+    public Musica(String titulo){
+        this.titulo = titulo;
+    }
+}
